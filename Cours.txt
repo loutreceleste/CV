@@ -1,0 +1,17 @@
+Partie 3 chapitre 1 Agencez le contenu de vos pages
+
+VERT: #00664E
+
+VERT CLAIR: #12B38D
+
+VERT PLUS CLAIR: #14C99F
+
+CREME: #F4F2F1
+
+ROUGE: #E62B2B
+
+NOIR: #040506
+
+GRIS: #AFAFAF
+
+JAUNE: #FFC24A
