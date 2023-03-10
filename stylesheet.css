@@ -165,6 +165,9 @@ a:hover {
     align-items: center;
     gap: 240px;
 }
+li {
+	padding-top: 15px;
+}
 .formation {
 	display: flex;
   	flex-direction: row;
